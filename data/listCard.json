@@ -1,0 +1,19 @@
+{
+  "1": "Gravity",
+  "2": "AddLine",
+  "3": "AddColumn",
+  "4": "TurnGrid",
+  "5": "RemoveLine",
+  "6": "RemoveCol",
+  "7": "PlacePiece",
+  "8": "PlayCard",
+  "9": "DrawCard",
+  "10": "SwitchPlayer",
+  "11": "AlignToWin",
+  "12": "AlignToWinPlusOne",
+  "13": "AlignToWinMinusOne",
+  "14": "EndCard",
+  "15": "CardPlayPlaceOrPick",
+  "16": "CardEndPLusOne",
+  "17": "CardEndMinusOne"
+}
